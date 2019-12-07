@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FuelCalc</string>
+    <string name="L">Fueled</string>
+    <string name="km">Distance</string>
+    <string name="result">Were</string>
+    <string name="calc">CALC</string>
+
+</resources>
